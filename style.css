@@ -1,6 +1,10 @@
+*{
+    background-color: bisque;
+}
 h1{
     text-align: center;
     margin: auto;
+    color: gray;
 }
 img{
     display: flex;
